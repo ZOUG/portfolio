@@ -1,11 +1,9 @@
 title: Gen Zou # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD Degree, UNB, Canada
+  CS PhD Degree, UNB, Canada
   <br />
-  Master Degree, Tsinghua Univ., China
-  <br />
-  Bachelor Degree, Tsinghua Univ., China
+  CS Master Degree, Tsinghua Univ., China
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
