@@ -4,8 +4,8 @@
 ### Projects
 
 - [Deep Learning Specialization](https://github.com/ZOUG/DeepLearningSpecialization)
-- [Quora Insincere Question Classification](http://example.com/)
-- [Home Loan Default Prediction](http://example.com/)
+- [Quora Insincere Question Classification](https://github.com/ZOUG/portfolio/blob/master/error.md)
+- [Home Loan Default Prediction](https://github.com/ZOUG/portfolio/blob/master/error.md)
 - [PSOATransRun](https://github.com/RuleML/PSOATransRunComponents)
 
 ---
