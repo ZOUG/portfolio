@@ -4,7 +4,7 @@
 ### Projects
 
 - [Deep Learning Specialization](https://github.com/ZOUG/DeepLearningSpecialization)
-- [Quora Insincere Question Classification](https://www.kaggle.com/miracle0/quora-insincere-question-classification)
+- [Quora Insincere Question Classification](https://www.kaggle.com/miracle0/quora-insincere-question-classification?scriptVersionId=17363704)
 - [Home Loan Default Prediction](https://github.com/ZOUG/HomeCreditDefault/) 
 - [PSOATransRun](https://github.com/RuleML/PSOATransRunComponents)
 
