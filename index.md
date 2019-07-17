@@ -5,7 +5,7 @@
 
 - [Deep Learning Specialization](https://github.com/ZOUG/DeepLearningSpecialization)
 - [Quora Insincere Question Classification](https://www.kaggle.com/miracle0/quora-insincere-question-classification)
-- [Home Loan Default Prediction](https://github.com/ZOUG/portfolio/blob/master/error.md) 
+- [Home Loan Default Prediction](https://github.com/ZOUG/HomeCreditDefault/) 
 - [PSOATransRun](https://github.com/RuleML/PSOATransRunComponents)
 
 ---
