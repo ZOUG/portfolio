@@ -5,9 +5,9 @@
 
 - [Deep Learning Specialization](https://github.com/ZOUG/DeepLearningSpecialization)
 - [Quora Insincere Question Classification](https://www.kaggle.com/miracle0/quora-insincere-question-classification)
-- [Home Loan Default Prediction](https://github.com/ZOUG/HomeCreditDefault/)
+- [Home Loan Default Prediction](https://github.com/ZOUG/portfolio/blob/master/error.md) 
 - [PSOATransRun](https://github.com/RuleML/PSOATransRunComponents)
 
 ---
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
+<!-- (https://github.com/ZOUG/HomeCreditDefault/) <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
